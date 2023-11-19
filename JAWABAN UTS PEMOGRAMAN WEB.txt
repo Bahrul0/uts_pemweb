@@ -1,0 +1,17 @@
+JAWABAN UTS PEMOGRAMAN WEB
+1.	Framework dalam pengembangan aplikasi itu seperti kerangka kerja atau pondasi awal yang sudah disiapkan sebelumnya. 
+2.	Final projek semester tiga.
+      1.	Membuat Aplikasi Web apotek yang berisi stok obat, pembeli obat, pemasukan dan pengeluaran, adminitrasi.
+      2.	Anggota dari proyek yang sedang digarap terdiri dari tiga orang. Nama anggota dan tugasnya sebagai berikut:
+              a.	Muhamad Bahrul Ulum memegang tugas sebagai Desain Aplikasi dan merancang aplikasi.
+              b.	Tiara Putri Mahalia memegang tugas sebagai membuat database dan desain pemodelan / menggambaran jalannya aplikasi
+              c.	Ahmad Luthfi Ramadhan Memegang tugas sebagai dokumendasi dan laporan tugas final projek semester III.
+      3.	Permasalahan yang didapat setelah hasil wawancara dengan client adalah sebagai berikut.
+	•	Proses transaksi masih manual belum menggunakan komputerisasi.
+	•	Pembeli tidak mengetahui kegunaan dari obat-obatan yang akan dibeli.
+	•	Memilih stok obat-obatan yang sudah expired dengan memakan waktu.
+	•	Belum mengunakan Aplikasi kasir masih manual atau kalkulator biasa.
+
+3.	Framework dalam pengembangan aplikasi itu seperti kerangka kerja atau pondasi awal yang sudah disiapkan sebelum
+
+
